@@ -1,0 +1,12 @@
+﻿name: segmentation
+dependencies:
+  - ipykernel
+  - ipython
+  - jupyterlab
+  - notebook
+  - numpy
+  - pandas
+  - plotly
+  - scikit-learn
+  - seaborn
+  - streamlit
