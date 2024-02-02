@@ -23,7 +23,7 @@ from define_objects import (
 # - key
 ################################################################################################
 # Expected solution: st.text_input('ID', max_chars=5, key='ID')
-
+st.text_input('ID', max_chars=5, key='ID')
 
 # display a row, which corresponds to the input user's ID 
 # -> there is one in the data frame
